@@ -40,3 +40,7 @@ password = thepasswordforthatuser
 - `get-records.py` shows an example of retrieving and displaying the records of a table using a `SELECT` statement. Check the [original tutorial](http://www.mysqltutorial.org/python-mysql-query/) to see other ways to retrieve the records (`fetchall`, `fetchmany`).
 - `find-record.py` asks the user for an ID and finds the employee with that ID
 - `insert-record.py` inserts a record into the employee table. Notice that the ID is fixed, so you may need to change it to work for you. You may use numbers greater than 600010.
+
+## Additional Resource
+You may want to check out:
+[MySQL Connector API Documentation](https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html)
