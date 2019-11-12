@@ -1,0 +1,5 @@
+# Package to Connect to MySQL DBMS
+mysql-connector-python
+
+# Config Parser to parse configuration files
+configparser
